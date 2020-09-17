@@ -1,0 +1,2 @@
+# Proxical
+Simple RPC library
